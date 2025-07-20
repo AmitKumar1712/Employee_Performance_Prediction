@@ -32,4 +32,4 @@ Employee Performance Prediction is a project designed to analyze various data po
 2. Create a new branch for your feature.
 3. Submit a pull request with detailed documentation.
 
-For more information, visit the [GitHub repository](vinay).
+For more information, visit the [GitHub repository](https://github.com/AmitKumar1712/Employee_Performance_Prediction.git).
