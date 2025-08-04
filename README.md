@@ -5,6 +5,8 @@ Employee Performance Prediction is a project designed to analyze various data po
 
 ## [Project Demostration](https://youtu.be/GJwmefZejMQ?si=KEq3cBjmv-b61iLJ)
 
+## [PPTX Documentation](https://docs.google.com/presentation/d/e/2PACX-1vQWe8N4hl5XgzkqXgCFKCocxyZnEWafbSuGM3TP0VC4wSlCcYiEf4Yu3qiuhaTP9_LX4YwHJbiUl7oG/pub?start=true&loop=true&delayms=3000)
+
 ## Structure
 - **Datasets:** Contains the datasets used for training.
 - **Notebooks:** Jupyter Notebooks for data exploration, preprocessing, and model training.
